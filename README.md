@@ -80,7 +80,7 @@ Geopoint -Geographic location -Decimal
 
 Street -Street name-Text
 
-Postcode-Postal code	Number
+Postcode-Postal code-Number
 
 # 8. Requirements
 Business requirements
@@ -181,7 +181,6 @@ Slicers: vehicle name, booking date, suburb, start time band
 # 12. Data Source
 
 Brisbane City Council open data, Food truck historical bookings. 
-Check the dataset's licence on the Brisbane open data portal and credit it here before publishing.	
 
 # 13. Dashboard
 
