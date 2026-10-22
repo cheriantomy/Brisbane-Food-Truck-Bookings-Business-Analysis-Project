@@ -183,6 +183,7 @@ Slicers: vehicle name, booking date, suburb, start time band
 Brisbane City Council open data, Food truck historical bookings. 
 
 # 13. Dashboard
+ Did all the queries by own, but was lazy to design it, used ai for it.
 
 <img width="1152" height="647" alt="DASH1" src="https://github.com/user-attachments/assets/5062362a-955e-4f9b-a522-1583e7ea302c" />
 
